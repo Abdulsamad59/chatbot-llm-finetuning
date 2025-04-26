@@ -1,0 +1,20 @@
+# === Inhalt requirements.txt ===
+
+"""
+langchain
+sentence-transformers
+faiss-cpu
+huggingface-hub
+pypdf
+torch
+transformers
+accelerate
+peft
+trl
+einops
+rouge-score
+tensorboard
+pandas
+matplotlib
+wordcloud
+"""
